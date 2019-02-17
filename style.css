@@ -1,0 +1,75 @@
+.caption {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-STYLE: italic; FONT-SIZE: 12px; PADDING-BOTTOM: 4px; COLOR: #000055; PADDING-TOP: 4px; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+P {
+	FONT-SIZE: 12px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+UL {
+	MARGIN-TOP: 1px; MARGIN-BOTTOM: 1px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+H1 {
+	FONT-WEIGHT: bold; COLOR: #555588; FONT-SIZE: 16px; FONT-STYLE: italic; MARGIN: 0px; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+H2 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 16px; PADDING-BOTTOM: 4px; COLOR: #555555; PADDING-TOP: 4px; FONT-FAMILY: Geneva, Arial, Helvetica, sans-serif
+}
+H4 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-SIZE: 16px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px; COLOR: #000033; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+hr {
+	COLOR: #555588
+}
+.classlink {
+	FONT-FAMILY: maiandra gd, bell mt, Arial, Helvetica, sans-serif; color: #000000;
+}
+.small {
+	PADDING-RIGHT: 10px; FONT-SIZE: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.uppadd {
+	PADDING-RIGHT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.topmenuitem {
+	FONT-SIZE: 17px; COLOR: #008888; FONT-FAMILY: formal436 BT, arial, sans-serif; TEXT-DECORATION: none
+}
+.upmenuitem {
+	FONT-STYLE: italic; FONT-SIZE: 17px; COLOR: #773366; FONT-FAMILY: Maiandra GD, Tahoma, Arial, sans-serif; TEXT-DECORATION: none
+}
+.banner {
+	PADDING-RIGHT: 10px
+}
+.contentpadding {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-SIZE: 12px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; FONT-FAMILY: Verdana, Tahoma, Arial, sans-serif
+}
+.title1 {
+	FONT-SIZE: 50px; COLOR: #773366; FONT-FAMILY: tempus sans ITC, mistral, maiandra gd; TEXT-DECORATION: none
+}
+.td {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+.title2 {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 15px; FONT-WEIGHT: bold; FONT-SIZE: 13px; PADDING-BOTTOM: 3px; COLOR: #ffffff; PADDING-TOP: 3px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.menuitem {
+	FONT-SIZE: 16px; COLOR: #000000; FONT-FAMILY: Maiandra GD, Tahoma, Arial, sans-serif; TEXT-DECORATION: none
+}
+.newsletter {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana, Tahoma, Arial, sans-serif; TEXT-DECORATION: none
+}
+.menupadding {
+	PADDING-RIGHT: 15px; PADDING-BOTTOM: 4px; PADDING-TOP: 8px
+}
+.pagetitle {
+	PADDING-RIGHT: 15px; FONT-WEIGHT: bold; FONT-SIZE: 15px; PADDING-BOTTOM: 4px; COLOR: #000000; PADDING-TOP: 4px; FONT-FAMILY: Tahoma, Verdana, Arial, sans-serif
+}
+.submenu {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 20px; BACKGROUND: #3a7ebf; PADDING-BOTTOM: 3px; MARGIN: 0px 0px 0px 3px; COLOR: #ffcc00; PADDING-TOP: 3px
+}
+.submenuitem {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Verdana, sans-serif, Arial, Verdana; TEXT-DECORATION: none
+}
+.lipad {
+	PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+.tdunline {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px; BORDER-BOTTOM: #cccccc 1px solid
+}
